@@ -37,13 +37,13 @@ To install **Funel**, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/funel-agency_landing_page.git
+sudo git clone https://github.com/ABDUL-REHMAN345/funel-agency_landing_page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/funel-agency_landing_page.git
+git clone https://github.com/ABDUL-REHMAN345/funel-agency_landing_page.git
 ```
 
 ### Contact
